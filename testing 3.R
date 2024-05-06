@@ -1,2 +1,5 @@
 print ("this file was created in RStudio")
 print("and now it lives on GitHub")
+print("I am editing for the secont time now. Apparently I have to use this upper left box, and not the console!")
+print ("okay why is this not working")
+print("test 4.0")
